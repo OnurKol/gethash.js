@@ -6,7 +6,7 @@
  * Example :
  *   Location : .../index.html#text:Hello World
  *
- *   Get Value : var STRNAME=get("text")
+ *   Get Value : var STRNAME=get("text");
  * Note!
  * First include this file.
 */
