@@ -6,10 +6,12 @@ Browser Location : .../index.html#msg:YourMessage#show:true<br>
 index.html :<br>
 <script src=".../gethash.js"></script><br>
 <script><br>
-var message=get("msg");
-var ms=get("show");
-
-
+var message=get("msg");<br>
+var ms=get("show");<br>
+<br>
+if(ms == true){<br>
+document.write( message )<br>
+}<br>
 </script>
 
 <br>
