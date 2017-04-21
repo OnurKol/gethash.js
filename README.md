@@ -1,5 +1,9 @@
 # gethash.js
 New HTML "get" Method.<br>
+<br>
+How to use gethash.js
+w
+<br>
 Created by Onur KOL<br><br>
 http://instagram.com/onurkol.4161<br>
 http://twitter.com/onurkol4161<br>
