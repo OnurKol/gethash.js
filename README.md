@@ -4,7 +4,7 @@ New HTML "get" Method.<br>
 How to use gethash.js<br>
 Browser Location : .../index.html#msg:YourMessage#show:true<br>
 index.html :<br>
-<code>
+<pre>
 <script src=".../gethash.js"></script><br>
 <script><br>
 var message=get("msg");<br>
@@ -14,7 +14,7 @@ if(ms == true){<br>
 &emsp;document.write( message )<br>
 }<br>
 </script>
-</code>
+</pre>
 <br>
 Created by Onur KOL<br><br>
 http://instagram.com/onurkol.4161<br>
