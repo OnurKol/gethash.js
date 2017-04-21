@@ -12,7 +12,7 @@ var message=get("msg");
 var ms=get("show");
 
 if(ms == true){
-&emsp;document.write( message )
+&emsp;document.write( message );
 }
 </script>
 </pre>
