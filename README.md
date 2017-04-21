@@ -7,13 +7,13 @@ Browser Location :
 index.html :<br>
 <pre>
 <script src=".../gethash.js"></script><br>
-<script><br>
+<script>
 var message=get("msg");
 var ms=get("show");
-<br>
-if(ms == true){<br>
-&emsp;document.write( message )<br>
-}<br>
+
+if(ms == true){
+&emsp;document.write( message )
+}
 </script>
 </pre>
 <br>
