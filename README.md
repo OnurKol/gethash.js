@@ -2,13 +2,14 @@
 New HTML "get" Method.<br>
 <br>
 How to use gethash.js<br>
-Browser Location : .../index.html#msg:YourMessage#show:true<br>
+Browser Location : 
+<pre>.../index.html#msg:YourMessage#show:true</pre>
 index.html :<br>
 <pre>
 <script src=".../gethash.js"></script><br>
 <script><br>
-var message=get("msg");<br>
-var ms=get("show");<br>
+var message=get("msg");
+var ms=get("show");
 <br>
 if(ms == true){<br>
 &emsp;document.write( message )<br>
