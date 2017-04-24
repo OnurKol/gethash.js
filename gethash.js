@@ -1,7 +1,7 @@
 /*
  * gethash.js
  * This Script Created by Onur KOL
- * version: 1.0.5
+ * version: 1.0.9
  *
  * Example :
  *   Location : .../index.html#text:Hello World
@@ -37,6 +37,14 @@ function get(v){
 	}
 }
 
+function empty(t){
+	if(t==undefined || t=="" || t==null){
+		return true;
+	}
+	else{
+		return false;
+	}
+}
 
 window.onhashchange=function(){ 
 	window.location.reload(false);
