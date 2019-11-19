@@ -1,7 +1,8 @@
 # gethash.js
-New HTML "get" Method.<br>
+HTML, Get values in address line with Javascript.<br>
 <br>
 How to use gethash.js<br>
+<b>Example</b> :
 Browser Location : 
 <pre>.../index.html#msg:YourMessage#show:true</pre>
 index.html :<br>
